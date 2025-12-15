@@ -38,12 +38,10 @@
 <br/>
 
 ### 📉 Métricas e Atividade
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guijara&theme=onedark&hide_border=true&langs_count=5" height="180px" alt="Top Langs" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=guijara&theme=onedark&hide_border=true" height="180px" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guijara&layout=compact&theme=onedark&hide_border=true&langs_count=6" height="150px" alt="Top Langs" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=guijara&theme=onedark&hide_border=true" height="150px" alt="Streak Stats" />
 </div>
-
 <hr/>
 
 ### 📌 Principais Projetos
