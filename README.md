@@ -3,7 +3,7 @@
   # Olá, eu sou o Guilherme Jara!
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&center=true&vCenter=true&width=435&lines=Software+Engineer;Java+%26+Spring+Ecosystem;Competitive+Programming" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&center=true&vCenter=true&width=435&lines=Software+Engineer;Java+%26+Spring+Ecosystem;Competitive+Programmer" alt="Typing SVG" />
   </a>
 
   <br/>
