@@ -40,8 +40,8 @@
 ### 📉 Métricas e Atividade
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guijara&theme=onedark&hide_border=true&langs_count=6" width="48%" alt="Top Langs" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=guijara&theme=onedark&hide_border=true" width="48%" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guijara&layout=compact&theme=onedark&hide_border=true&langs_count=6" height="170px" alt="Top Langs" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=guijara&theme=onedark&hide_border=true" height="170px" alt="Streak Stats" />
 </div>
 
 <hr/>
@@ -50,10 +50,10 @@
 
 <div align="center">
   <a href="https://github.com/guijara/encurtador-url">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=guijara&repo=NOME-DO-REPO-1&theme=onedark&hide_border=true" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=guijara&repo=encurtador-url&theme=onedark&hide_border=true" />
   </a>
   <a href="https://github.com/guijara/desafioCadastro">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=guijara&repo=NOME-DO-REPO-2&theme=onedark&hide_border=true" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=guijara&repo=desafioCadastro&theme=onedark&hide_border=true" />
   </a>
 </div>
 
