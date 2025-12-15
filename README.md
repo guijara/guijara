@@ -25,7 +25,7 @@
 ### 👨‍💻 Sobre Mim
 - 🎓 Acadêmico de **Ciência da Computação** na UFMT (Cuiabá).
 - ☕ Desenvolvedor focado no ecossistema **Java** e **Spring Boot**.
-- 🧩 Competidor de **Maratonas de Programação** (ICPC), apaixonado por algoritmos e otimização.
+- 🧩 Competidor de **Maratonas de Programação** (ICPC).
 - 📚 Aprofundando estudos em **Arquitetura de Software** e **Machine Learning**.
 
 <br/>
@@ -43,8 +43,8 @@
 ### 📉 Métricas e Atividade
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guijara&layout=compact&theme=onedark&hide_border=true&langs_count=6" height="165" alt="Top Langs" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=guijara&theme=onedark&hide_border=true" height="165" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guijara&layout=compact&theme=onedark&hide_border=true&langs_count=6" width="46%" alt="Top Langs" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=guijara&theme=onedark&hide_border=true" width="46%" alt="Streak Stats" />
 </div>
 
 <hr/>
