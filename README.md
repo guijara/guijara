@@ -14,9 +14,6 @@
   <a href="mailto:guilhermerodrijara@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
-  <a href="https://discord.com" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank" />
-  </a>
 
 </div>
 
@@ -43,8 +40,8 @@
 ### 📉 Métricas e Atividade
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guijara&layout=compact&theme=onedark&hide_border=true&langs_count=6" width="46%" alt="Top Langs" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=guijara&theme=onedark&hide_border=true" width="46%" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guijara&theme=onedark&hide_border=true&langs_count=6" width="48%" alt="Top Langs" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=guijara&theme=onedark&hide_border=true" width="48%" alt="Streak Stats" />
 </div>
 
 <hr/>
