@@ -23,11 +23,10 @@
 <hr/>
 
 ### 👨‍💻 Sobre Mim
-
-- 🎓 Acadêmico de **Ciência da Computação** na **UFMT (Cuiabá)**.
-- 💻 **Software Engineer** com forte atuação no ecossistema **Java**.
-- 🧠 Foco atual em **APIs REST com Spring**, **Machine Learning** e **Algoritmos** para programação competitiva.
-- ♟️ Competidor ativo de maratonas de programação (**ICPC/SBC**), com ênfase em estruturas de dados e otimização.
+- 🎓 Acadêmico de **Ciência da Computação** na UFMT (Cuiabá).
+- ☕ Desenvolvedor focado no ecossistema **Java** e **Spring Boot**.
+- 🧩 Competidor de **Maratonas de Programação** (ICPC), apaixonado por algoritmos e otimização.
+- 📚 Aprofundando estudos em **Arquitetura de Software** e **Machine Learning**.
 
 <br/>
 
@@ -53,10 +52,10 @@
 ### 📌 Principais Projetos
 
 <div align="center">
-  <a href="https://github.com/guijara/NOME-DO-REPO-1">
+  <a href="https://github.com/guijara/encurtador-url">
     <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=guijara&repo=NOME-DO-REPO-1&theme=onedark&hide_border=true" />
   </a>
-  <a href="https://github.com/guijara/NOME-DO-REPO-2">
+  <a href="https://github.com/guijara/desafioCadastro">
     <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=guijara&repo=NOME-DO-REPO-2&theme=onedark&hide_border=true" />
   </a>
 </div>
