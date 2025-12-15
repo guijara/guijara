@@ -40,8 +40,8 @@
 ### 📉 Métricas e Atividade
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guijara&layout=compact&theme=onedark&hide_border=true&langs_count=6" height="170px" alt="Top Langs" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=guijara&theme=onedark&hide_border=true" height="170px" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guijara&theme=onedark&hide_border=true&langs_count=5" height="180px" alt="Top Langs" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=guijara&theme=onedark&hide_border=true" height="180px" alt="Streak Stats" />
 </div>
 
 <hr/>
@@ -60,5 +60,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=guijara&icon=5&color=6" />
+  <img src="https://komarev.com/ghpvc/?username=guijara&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </div>
