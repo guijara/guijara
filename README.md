@@ -11,7 +11,7 @@
 
 ## <samp>Hello World!</samp> <img src="https://raw.githubusercontent.com/mupezzuol/mupezzuol/master/assets/earth.gif" width="22px" height="22px">
 
-<samp>Sou um __Desenvolvedor__ de __Software__ __Backend__, focado em solucionar problemas com algoritmos e construir sistemas escaláveis e robustos.</samp>&nbsp;👨‍💻&nbsp;🚀
+<samp>Sou um __Desenvolvedor__ de __Software__ __Backend__, focado em solucionar problemas com algoritmos e construir sistemas robustos.</samp>&nbsp;👨‍💻&nbsp;🚀
 
 - 🎓&nbsp;<samp>Graduando em __Ciência da Computação__ na __Universidade Federal de Mato Grosso__ (Cuiabá).</samp>
 - 🍃&nbsp;<samp>Desenvolvendo soluções backend com __Java__ e __Spring Boot__.</samp>
