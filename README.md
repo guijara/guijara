@@ -1,4 +1,4 @@
-# <samp>Guilherme Jara</samp> <img src="https://media.giphy.com/media/hvRJCLFzcuMiM/giphy.gif" width="30px">
+# <samp>Guilherme Jara</samp> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/guilhermejara/)](https://www.linkedin.com/in/guilhermejara/)
 [![Email Badge](https://img.shields.io/badge/Email-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C&link=mailto:guilhermerodrijara@gmail.com)](mailto:guilhermerodrijara@gmail.com)
@@ -11,11 +11,11 @@
 
 ## <samp>Hello World!</samp> <img src="https://raw.githubusercontent.com/mupezzuol/mupezzuol/master/assets/earth.gif" width="22px" height="22px">
 
-<samp>Sou um __Desenvolvedor__ de __Software__, focado em solucionar problemas com algoritmos e construir sistemas escaláveis e robustos.</samp>&nbsp;👨‍💻&nbsp;🚀
+<samp>Sou um __Desenvolvedor__ de __Software__ __Backend__, focado em solucionar problemas com algoritmos e construir sistemas escaláveis e robustos.</samp>&nbsp;👨‍💻&nbsp;🚀
 
 - 🎓&nbsp;<samp>Graduando em __Ciência da Computação__ na __Universidade Federal de Mato Grosso__ (Cuiabá).</samp>
 - ☕&nbsp;<samp>Desenvolvendo soluções backend com __Java__ e __Spring Boot__.</samp>
-- 🧩&nbsp;<samp>Aprimorando algoritmos e lógica através de programação competitiva com foco no ICPC.</samp>
+- 🧩&nbsp;<samp>Solucionando problemas algorítmicos complexos em maratonas de programação competitiva (ICPC).</samp>
 - 📚&nbsp;<samp>Aprofundando estudos em __Engenharia__ e __Arquitetura__ de __Software__.</samp>
 
 <br/>
