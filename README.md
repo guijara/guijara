@@ -1,4 +1,4 @@
-# <samp>Guilherme Jara</samp> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# <samp>Guilherme Jara</samp> <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50px">
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/guilhermejara/)](https://www.linkedin.com/in/guilhermejara/)
 [![Email Badge](https://img.shields.io/badge/Email-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C&link=mailto:guilhermerodrijara@gmail.com)](mailto:guilhermerodrijara@gmail.com)
@@ -15,7 +15,7 @@
 
 - 🎓&nbsp;<samp>Graduando em __Ciência da Computação__ na __Universidade Federal de Mato Grosso__ (Cuiabá).</samp>
 - ☕&nbsp;<samp>Desenvolvendo soluções backend com __Java__ e __Spring Boot__.</samp>
-- 🧩&nbsp;<samp>Solucionando problemas algorítmicos complexos em maratonas de programação competitiva (ICPC).</samp>
+- ⚡&nbsp;<samp>Solucionando problemas algorítmicos complexos em maratonas de programação competitiva (ICPC).</samp>
 - 📚&nbsp;<samp>Aprofundando estudos em __Engenharia__ e __Arquitetura__ de __Software__.</samp>
 
 <br/>
@@ -24,7 +24,7 @@
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,cpp,python,postgres,docker,git,github,linux&perline=10" />
+    <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,git,github,linux,cpp&perline=10" />
   </a>
 </div>
 
