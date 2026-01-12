@@ -44,8 +44,6 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=guijara&theme=onedark&hide_border=true" height="180px" alt="Streak Stats" />
 </div>
 
-<hr/>
-
 <br/>
 
 <div align="center">
