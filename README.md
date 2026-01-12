@@ -46,17 +46,6 @@
 
 <hr/>
 
-### 📌 Principais Projetos
-
-<div align="center">
-  <a href="https://github.com/guijara/encurtador-url">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=guijara&repo=encurtador-url&theme=onedark&hide_border=true" />
-  </a>
-  <a href="https://github.com/guijara/desafioCadastro">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=guijara&repo=desafioCadastro&theme=onedark&hide_border=true" />
-  </a>
-</div>
-
 <br/>
 
 <div align="center">
