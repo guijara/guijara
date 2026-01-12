@@ -1,4 +1,4 @@
-# <samp>Guilherme Jara</samp> <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50px">
+# <samp>Guilherme Jara</samp> <img src="https://media.giphy.com/media/Q8yVhekmYfdZBbOmJc/giphy.gif" width="35px">
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/guilhermejara/)](https://www.linkedin.com/in/guilhermejara/)
 [![Email Badge](https://img.shields.io/badge/Email-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C&link=mailto:guilhermerodrijara@gmail.com)](mailto:guilhermerodrijara@gmail.com)
