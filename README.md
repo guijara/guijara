@@ -1,4 +1,4 @@
-# <samp>Guilherme Jara</samp> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/spi.gif" width="30px">
+# <samp>Guilherme Jara</samp> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width="35px">
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/guilhermejara/)](https://www.linkedin.com/in/guilhermejara/)
 [![Email Badge](https://img.shields.io/badge/Email-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C&link=mailto:guilhermerodrijara@gmail.com)](mailto:guilhermerodrijara@gmail.com)
